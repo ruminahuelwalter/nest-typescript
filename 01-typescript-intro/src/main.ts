@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
 //import { charmander } from './bases/04-injection.ts'
 //import { name, age } from './bases/01-types.ts' 
-import { charmander } from './bases/05-decorators.ts'
+import { charmander } from './bases/06-decorators.ts'
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
     <a href="https://vitejs.dev" target="_blank">
